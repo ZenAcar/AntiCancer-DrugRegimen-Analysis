@@ -25,4 +25,3 @@ Pymaceuticals Inc., is a burgeoning pharmaceutical company, specializing in anti
 * A high R-squared of 0.84 suggests a strong correlation between the mouse weight and the average tumor volume indicating the weight of the mice being treated also has an impact on the efficacy of the drug.
 
 * More data such as tumor development beyond the 45-day period, starting tumor volumes in the mice being treated would help in determining the efficacy of the drug regimens.
-
